@@ -219,11 +219,11 @@ fieldset {
 	background-size: 100%;
 }
 .heroSection {
-	background-image: url("./bg.jpg");
+	background-image: url("./images/bg.jpg");
 	text-align: right;
 }
 .hero2 {
-	background-image: url("./products.jpg");
+	background-image: url("./images/products.jpg");
 }
 
 .heroSection > div {
